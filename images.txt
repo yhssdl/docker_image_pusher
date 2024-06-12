@@ -1,1 +1,5 @@
 alpine
+yhssdl/lpszoj
+yhssdl/lpszoj:nosql
+yhssdl/python
+yhssdl/navigate
