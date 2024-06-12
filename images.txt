@@ -3,3 +3,6 @@ yhssdl/lpszoj
 yhssdl/lpszoj:nosql
 yhssdl/python
 yhssdl/navigate
+kingmo888/rustdesk-api-server
+nginx:stable-alpine3.19-slim
+python:3.10-alpine3.19
