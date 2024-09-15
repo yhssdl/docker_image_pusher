@@ -11,3 +11,4 @@ rustdesk/rustdesk-server-s6
 rustdesk/rustdesk-server
 nginx:stable-alpine3.19-slim
 pymumu/smartdns
+irinesistiana/mosdn
