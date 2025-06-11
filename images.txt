@@ -1,3 +1,6 @@
 yhssdl/lpszoj
 yhssdl/lpszoj:nosql
+yhssdl/python
+yhssdl/python:alpine
+yhssdl/lnmp
 
